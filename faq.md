@@ -27,7 +27,7 @@ LTC: `M8oEz3hUFn2SrsV1gzDGXV63zwPEMGPdMU`
 
 ## Current Sponsors
 
-This blog has been sponsored by an [Ethereum Foundation Hackternship Grant](https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/).
+This blog has been sponsored by an [Ethereum Foundation Hackternship Grant](https://blog.ethereum.org/2018/05/02/announcing-may-2018-cohort-ef-grants/).
 
 ## Contribute
 
