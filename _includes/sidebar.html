@@ -1,0 +1,26 @@
+<header>
+  <a href="{{ site.github.url }}">
+    <h1>{{ site.site.title }}</h1>
+  </a>
+  <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
+
+  <p>I am live-blogging my exploration of the Ethereum developer ecosystem. Follow along!</p>
+
+  <p><a href="{{ site.github.url }}/faq.html">Frequently Asked Questions</a></p>
+
+  <p class="social">
+    <a href="https://twitter.com/richlitt"><i class="fab fa-twitter"></i><a/>
+    <a href="mailto:richard@burntfen.com"><i class="fas fa-envelope"></i></a>
+    <a href="{{ site.github.url }}"><i class="fab fa-github"></i></a>
+  </p>
+
+  <p>Posts:</p>
+
+  <p>
+  {% for post in site.posts %}
+      - {{ post.date | date: "%a at %H:%M" }} - <a href="{{ site.github.url }}{{post.url}}">{{ post.title }}</a><br/ >
+  {% endfor %}
+  </p>
+
+  <p>All content CC-BY-NC © 2018 <a href="{{ site.github.owner_url }}">Richard Littauer</a>.</p>
+</header>

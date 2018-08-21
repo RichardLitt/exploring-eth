@@ -1,0 +1,27 @@
+theme: jekyll-theme-minimal
+future: false
+
+# Site settings
+permalink: pretty
+
+# Pages permalink
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      permalink: /:path/:basename:output_ext
+
+plugins:
+  - jekyll-seo-tag
+
+image: "/assets/img/logo.png"
+twitter:
+  username: richlitt
+
+
+site:
+  google_analytics: "UA-4124866-15"
+  logo: "assets/img/logo.png"
+  title: "Exploring Ethereum"
+  description: "A journal experiment for exploring the Ethereum developer ecosystem"
