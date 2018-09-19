@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changing the Code of Conduct for Solidity"
-date: 2018-09-18T22:01:07Z
+date: 2018-09-19T10:58:37Z
 image: /assets/img/logo.png
 ---
 
