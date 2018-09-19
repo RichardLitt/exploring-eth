@@ -8,12 +8,14 @@ Writing in public is an incredibly useful way for me to both ensure quality of o
 ## How can I follow along?
 
 - Watch or Star this repository.
+- Remind me to get an RSS feed up and running.
 - Hit me up on Twitter! Ping [@richlitt](https://twitter.com/richlitt). I'm watching everything today. Or send me an email.
 
 ## Can I help with anything?
 
 Of course! [Open an issue](https://github.com/RichardLitt/exploring-eth/issues/new) with your questions, or write me at [richard@burntfen.com](mailto:richard@burntfen.com), or hit me up on Twitter at [@richlitt](https://twitter.com/richlitt).
 
+<!--
 ## Can I support this sort of thing?
 
 If you love this sort of stuff, support my Patreon! I make art like this a lot. [Subscribe here](https://www.patreon.com/richlitt).
@@ -24,7 +26,7 @@ USD: [Click here](https://plasso.com/richard@burntfen.com)
 BTC: `3Evu7f14y9wmpiTbs3yL3wr1eSB9KB8xEd`  
 ETH: `0x5f6c46fE24B412ba3d935FEdA5a590e8d5f264cC`  
 LTC: `M8oEz3hUFn2SrsV1gzDGXV63zwPEMGPdMU`  
-
+ -->
 ## Current Sponsors
 
 This blog has been sponsored by an [Ethereum Foundation Hackternship Grant](https://blog.ethereum.org/2018/05/02/announcing-may-2018-cohort-ef-grants/).
