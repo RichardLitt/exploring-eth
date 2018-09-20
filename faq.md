@@ -13,7 +13,7 @@ Writing in public is an incredibly useful way for me to both ensure quality of o
 
 ## Can I help with anything?
 
-Of course! [Open an issue](https://github.com/RichardLitt/exploring-eth/issues/new) with your questions, or write me at [richard@burntfen.com](mailto:richard@burntfen.com), or hit me up on Twitter at [@richlitt](https://twitter.com/richlitt).
+Of course! [Open an issue](https://github.com/RichardLitt/exploring-eth/issues/new) with your questions, or write me at [richard@exploringeth.com](mailto:richard@exploringeth.com), or hit me up on Twitter at [@richlitt](https://twitter.com/richlitt).
 
 <!--
 ## Can I support this sort of thing?
