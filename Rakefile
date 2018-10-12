@@ -52,7 +52,7 @@ desc "Move draft and publish in _posts; ENV opts: date, location"
 task :post, :title do |task, args|
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   location = ENV["location"] || "_drafts/draft.md"
-  title = args.title
+  title = ENV["title"] || args.title
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   # Note: I don't think that Date can be passed in as an argument
   date, date_time, date_time_long = RakeHelper.date_time
